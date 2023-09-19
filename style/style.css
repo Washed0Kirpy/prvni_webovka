@@ -1,0 +1,14 @@
+.logo{
+    margin:0;
+    background-color: lightskyblue;
+    width: 120px;
+    height: 70px;
+}
+img{
+    width: 110px;
+    height: 200;
+    margin: 5px;
+}
+a{text-decoration: dotted;
+
+}
